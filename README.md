@@ -111,11 +111,3 @@ Contributions are welcome! Feel free to open issues or submit a pull request wit
 
 This project is licensed under the **MIT License**.
 
----
-
-## 👨‍💻 Author
-
-**Sebastián Dávila**
-
-Feel free to contribute, open issues, or suggest improvements! 🚀
-
